@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "BCC_Hotel_Booking_Management_System",
+			"path": "."
+		},
+		{
+			"name": "Kitchen",
+			"path": "../Kitchen"
+		},
+		{
+			"name": "Sales_and_Inventory_System",
+			"path": "../Sales_and_Inventory_System"
+		}
+	],
+	"settings": {}
+}
